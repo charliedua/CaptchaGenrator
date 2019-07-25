@@ -17,3 +17,9 @@
   * UNTESTED
 ### Mac
   * UNTESTED
+
+## Run Screens
+![Welcome Screen](https://github.com/charliedua/CaptchaGenrator/blob/master/docs/WelcomeScreen.png)
+![Genrated Captcha](https://github.com/charliedua/CaptchaGenrator/blob/master/docs/GenratedCaptcha.png)
+![Pass Attempt](https://github.com/charliedua/CaptchaGenrator/blob/master/docs/PassAttempt.png)
+![Fail Attempt](https://github.com/charliedua/CaptchaGenrator/blob/master/docs/FailAttempt.png)
