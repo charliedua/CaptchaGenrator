@@ -7,7 +7,7 @@
   * This app is fully tested in Ubuntu 18.04 environment
 
 ## Build instructions
-### Linux
+### Linux (debian)
   * Must have package monodevelop installed (you can install it with `sudo apt install monodevelop`)
   * Make a clone of repo by `git clone https://github.com/charliedua/CaptchaGenrator.git`
   * Run `monodevelop GraphicsProject.sln`
